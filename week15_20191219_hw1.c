@@ -13,5 +13,6 @@
 
 int main()
 {
+	printf("week15 hw1");
 	return 0;
 }
